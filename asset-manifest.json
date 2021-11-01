@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DogApp/static/css/main.6e072eba.chunk.css",
+    "main.js": "/DogApp/static/js/main.c347a099.chunk.js",
+    "main.js.map": "/DogApp/static/js/main.c347a099.chunk.js.map",
+    "runtime-main.js": "/DogApp/static/js/runtime-main.31dfc9f9.js",
+    "runtime-main.js.map": "/DogApp/static/js/runtime-main.31dfc9f9.js.map",
+    "static/js/2.f392d37e.chunk.js": "/DogApp/static/js/2.f392d37e.chunk.js",
+    "static/js/2.f392d37e.chunk.js.map": "/DogApp/static/js/2.f392d37e.chunk.js.map",
+    "index.html": "/DogApp/index.html",
+    "static/css/main.6e072eba.chunk.css.map": "/DogApp/static/css/main.6e072eba.chunk.css.map",
+    "static/js/2.f392d37e.chunk.js.LICENSE.txt": "/DogApp/static/js/2.f392d37e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31dfc9f9.js",
+    "static/js/2.f392d37e.chunk.js",
+    "static/css/main.6e072eba.chunk.css",
+    "static/js/main.c347a099.chunk.js"
+  ]
+}
